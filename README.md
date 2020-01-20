@@ -6,6 +6,6 @@
 
 1、大数据，机器学习和NLP基础知识。
 
-2、SPARK、MR，HSQL基础知识。
+2、SPARK,MR,HSQL,Flink基础知识。
 
 3、git版本控制命令记录。
