@@ -33,7 +33,7 @@ My name is `JACK`
 
 ### 插入图片（最基本语法）
 叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL。
-![baidu](http://www.baidu.com/img/bdlogo.gif "baidu logo")
+![baidu](http://www.baidu.com/img/bdlogo.gif "baidu logo") <br>
 图片增加超链接，或者使用github仓库里照片。
 
 ### 插入代码片段
