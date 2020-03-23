@@ -12,8 +12,6 @@
 ### 0、普通文本
 换行需要加html换行标签<br>，换行标签反斜杠\转义后显示\<br>
 超链接直接贴URL，显示自动转为可访问链接形式www.baidu.com。<br>
-         保留行首空格，半角换全角 ,,..是的,,是的,,
-         两个tab实现单行文本，单行文本和普通文本啥区别？
 ### 1、部分文字高亮
 如果你想使一段话中部分文字高亮显示，来起到突出强调的作用，那么可以把它用 `  ` 包围起来。注意这不是单引号，而是Tab上方，数字1左边的按键（注意使用英文输入法）。
 My name is `JACK`
@@ -35,9 +33,6 @@ My name is `JACK`
 叹号! + 方括号[ ] + 括号( ) 其中叹号里是图片的URL。<br>
 ![baidu](http://www.baidu.com/img/bdlogo.gif "baidu logo") <br>
 图片增加超链接，或者使用github仓库里照片。
-[![baidu]](http://baidu.com)
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" <br>
-其中baidu是自定义，但要保证上下文相同。
 
 ### 5、插入代码片段
 插入代码片段
