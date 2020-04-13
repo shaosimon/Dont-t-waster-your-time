@@ -21,5 +21,6 @@ RDD是一个不可改写的数据体，immutable，你只可以从一个RDD经�
 其次，假设有台机器被偷了，有些数据丢了，你可以根据RDD的从属关系重新计算丢掉的数据。
 RDD本身是一个interface，你只要能做到以上三点就可以写自己的RDD拿到Spark上运行。
 知乎link:https://www.zhihu.com/question/59810584
-3、
-4、
+3、checkout 检出，切换分支。
+4、git command -help,查看名命令参数
+
