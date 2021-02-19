@@ -1,0 +1,3 @@
+1、cmd无法打开jupyter notebook
+出现错误： fatal error C1803:无法打开包括的文件：“sys/run.sh”: no such file or directory
+处理方法： 在高级环境变量中 将 path路径添加 D:/xxxx/Anaconda/Library/bin
