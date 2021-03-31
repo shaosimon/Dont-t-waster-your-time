@@ -1,8 +1,4 @@
 1、sublime 添加同时打开多个项目：project -> add Folder to project。
-2、RDD的概念：作者：Xiaopewpew
-链接：https://www.zhihu.com/question/59810584/answer/170492802
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 RDD是Spark数据结构最基本的抽象化概念之一，又名抽象弹性分布式数据库。
 RDD是一个不可改写的数据体，immutable，你只可以从一个RDD经过变换生产出一个新的RDD，你不能直接修改RDD里的数据。
